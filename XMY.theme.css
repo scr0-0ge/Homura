@@ -1,0 +1,65 @@
+/**
+* @name XMY
+*/
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
+:root {
+--main-theme-color: #C333DBDE;
+--theme-transparency: #2C2C2C9D;
+--theme-background-image: url('https://i.imgur.com/8OJK1Ke.jpg');
+--home-icon-image: url('https://i.imgur.com/Ws2TfiN.gif');
+--home-icon-image-zoom: 100%;
+--home-icon-image-position: center;
+--server-listing-width: 126px;
+--font-size: 100%;
+--mention-color: #FAA61A00;
+--mention-sider: #faa61aff;
+--mention-hover-color: #faa61a14;
+--category-hover-color: #8A29CAFF;
+--unread-server-animation: rainbow;
+--video-screen-button-background-color: #2C2C2C9D;
+--video-screen-button-foreground-color: #ffffffff;
+--video-screen-button-background-hovor-color: #c8c8c866;
+--video-screen-button-foreground-hovor-color: #ffffffff;
+--member-listing-role-color:#C333DBDE;
+--small-user-popout-background-image: url('https://i.imgur.com/wcNYweO.jpg');
+--small-user-popout-background-transparency: #2C2C2C9D;
+--small-user-popout-background-image-position: right;
+--big-user-popout-background-image: url('https://i.imgur.com/vgr2v9J.jpg');
+--big-user-popout-background-transparency: #2C2C2C9D;
+--big-user-popout-background-image-position: left;
+--code-markup-background-color: #00000099;
+--code-markup-border: 1px solid transparent;
+--message-box-transparency: #2C2C2C12;
+--embed-background-transparency: #2C2C2C9D;
+--message-hover-buttons-background: #c8c8c81a;
+--context-menu-transparency: #2C2C2C9D;
+--add-discover-icon-transparency: #2C2C2C39;
+--add-discover-icon-color: #C333DBDE;
+--channel-limit-count-color: #C333DBDE;
+--channel-limit-background-left: #FC121200;
+--channel-limit-background-right: #C333DB00;
+--scrollbar-color: #00000033;
+--unread-message-divider-color: #f04747;
+--unread-message-divider-font-color: #C333DBDE;
+--new-messages-bar-background-color: #7289da;
+--new-messages-bar-font-color: #C333DBDE;
+--emoji-menu-background-color: #2C2C2C9D;
+--emoji-menu-sider-background-color: #2C2C2C9D;
+--emoji-menu-server-header-background-color: #2C2C2C9D;
+--emoji-menu-bottom-bar-background-color: #2C2C2C9D;
+--emoji-menu-search-bar-background-color: #2C2C2C9D;
+--message-search-menu-background-color: #2C2C2C9D;
+--message-search-container-background-color: #00000099;
+--message-search-result-background-color: #2C2C2C9D;
+--text-voice-channel-color: #C333DBDE;
+--text-voice-channel-hover-color: #C333DBDE;
+--text-voice-channel-selected-text-color: #C333DBDE;
+--unread-text-channel-color: #ffffff;
+--unread-text-channel-bubble-color: #ffffff;
+--folder-background-color: #C333DBDE;
+--expanded-folder-background-color: #C333DBDE;
+--reaction-emoji-background-color: #00000000;
+--reaction-emoji-border-color: 1px solid transparent;
+--reaction-emoji-hover-background-color: #ffffff1a;
+--reaction-emoji-hover-border-color: #ffffff33;
+}
