@@ -1,9 +1,9 @@
 /**
 * @name Homura
-* Based on NotAnotherAnimeTheme
-* Edited on https://www.limeshark.dev/editor
-* By Scro_oge
+* @author Scro_oge
+* @description Based on NotAnotherAnimeTheme and edited on https://www.limeshark.dev/editor
 */
+
 @import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
 :root {
 --main-theme-color: #C333DBDE;
